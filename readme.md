@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-#######hello another one#########i#
-
+#######hello another one#########
