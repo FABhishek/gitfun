@@ -1,1 +1,1 @@
-####hello this is the initilaisation of my new git repository#######
+####hello this is the pull checking of my new git reposiitory#######
